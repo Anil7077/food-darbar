@@ -25,6 +25,7 @@ export default function Home({americanItems, indianItems,japaneseItems ,italianI
               <div className='text-end'>
                 <h4>The best place for your taste.</h4>
                 <h4>We serves all kind of food and bevrages.</h4>
+                <p>anil mallick</p>
               </div>
             </div>
           </div>

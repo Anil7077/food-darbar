@@ -1,3 +1,13 @@
 body{
-    background-color: green;
+    background-color: #c2c5aa;
+}
+.home-section h1{
+    font-weight: 800;
+    color: #080708;
+}
+.heading-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
